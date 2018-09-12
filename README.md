@@ -1,23 +1,23 @@
 # RIndex
 技术知识点索引，每日一读
 
-### 2018.09.19
+### 2018.09.09
 * [lvs为何不能完全替代DNS轮询] (http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959595&idx=1&sn=5f0633afd24c547b895f29f6538baa99&scene=0#rd)
 
-### 2018.09.18
+### 2018.09.08
 * [20个必不可少的Python库] (http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651371639&idx=1&sn=6d9c7903dd74664d3caa0b8a65cfe5ab&scene=0#rd)
 * [基于Docker的RDS，我们是这样做的] (http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651662244&idx=1&sn=df48003cfa9bb339702cda63a88249f6&scene=1&srcid=0918gCFU3lMKTeEonhaFxNSf#rd)
 
-### 2018.09.14
+### 2018.09.04
 * [七年编程，几个故事] (http://mp.weixin.qq.com/s?__biz=MjM5NzQ3ODAwMQ==&mid=2686978232&idx=1&sn=043478d47c3878ee534bbcfe1d40a052&scene=0#rd)
 
-### 2018.09.13
+### 2018.09.03
 * [虚拟化技术在淘宝] (http://club.alibabatech.org/resource_detail.htm?topicId=42)
 
-### 2018.09.12
+### 2018.09.02
 * [高并发的隔离术] (http://mp.weixin.qq.com/s?__biz=MjM5NzQ3ODAwMQ==&mid=2686978247&idx=1&sn=7133ed74a58c75fe7ceeb81342b8b470&scene=0#rd)
 
-### 2018.09.09
+### 2018.09.01
 * [鹰眼下的淘宝](http://club.alibabatech.org/resource_detail.htm?topicId=102)
 
 ### 2018.09.08
